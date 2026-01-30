@@ -9,7 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+<<<<<<< HEAD
     "next": "^16.1.6",
+=======
+    "next": "15.3.2",
+>>>>>>> 458b0d971b7d55407206a2166155dd39566181b0
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.13.0"
